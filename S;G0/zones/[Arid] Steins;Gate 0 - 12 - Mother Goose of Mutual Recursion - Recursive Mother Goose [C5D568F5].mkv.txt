@@ -1,0 +1,7 @@
+0 3477 aom --denoise-noise-level=15
+3477 5635 aom --denoise-noise-level=13 --cpu-used=3 --cq-level=24
+9071 9226 aom --denoise-noise-level=15
+9654 9809 aom --denoise-noise-level=24
+26677 26718 aom --denoise-noise-level=24
+30885 32967 aom --denoise-noise-level=4 --cpu-used=3 --cq-level=30
+32967 34047 aom --denoise-noise-level=15

@@ -1,0 +1,3 @@
+for file in *.mkv
+do av1an --temp "./temp/$file/" --zones "./zones/$file.txt" -i "$file" -o "./encode/${file%%.*}_av1.mkv" -y --verbose --keep -m lsmash -c mkvmerge -e aom -v " --end-usage=q --threads=1 --cpu-used=2 --cq-level=19 --tile-columns=1 --tile-rows=0 --tune-content=psy101 --dist-metric=qm-psnr --fast-decode=2 --disable-kf --denoise-noise-level=6 " --pix-format yuv420p10le -w 12 --min-scene-len 12 -x 240 --resume
+done

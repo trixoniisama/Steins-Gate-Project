@@ -1,0 +1,9 @@
+8544 8657 aom --denoise-noise-level=15
+22106 22179 aom --denoise-noise-level=24
+22232 22474 aom --denoise-noise-level=15
+24937 24955 aom --denoise-noise-level=24
+24991 25014 aom --denoise-noise-level=24
+25041 25066 aom --denoise-noise-level=24
+25148 25331 aom --denoise-noise-level=24
+30459 32544 aom --denoise-noise-level=4 --cpu-used=3 --cq-level=30
+32602 34258 aom --cq-level=17

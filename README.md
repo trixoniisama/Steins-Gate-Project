@@ -1,2 +1,2 @@
 # Steins-Gate-Project
-Place to store most files used in my Steins Gate series encoding project
+Place to store some files used in my Steins;Gate series encoding project

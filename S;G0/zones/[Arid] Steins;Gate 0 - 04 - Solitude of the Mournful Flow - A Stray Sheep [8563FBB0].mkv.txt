@@ -1,0 +1,8 @@
+0 1104 aom --denoise-noise-level=24
+1104 2236 aom --denoise-noise-level=15
+2806 4963 aom --denoise-noise-level=9 --cpu-used=3 --cq-level=20
+11271 11390 aom --denoise-noise-level=15
+18677 18777 aom --denoise-noise-level=15
+20563 20631 aom --denoise-noise-level=15
+31574 31676 aom --denoise-noise-level=24
+31888 34046 aom --denoise-noise-level=9 --cpu-used=3 --cq-level=20

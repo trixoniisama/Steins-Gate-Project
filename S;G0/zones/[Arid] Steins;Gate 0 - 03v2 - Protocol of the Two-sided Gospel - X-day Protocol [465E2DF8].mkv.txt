@@ -1,0 +1,3 @@
+2182 4459 aom --denoise-noise-level=8
+31406 31481 aom --denoise-noise-level=24
+31888 34046 aom --denoise-noise-level=8

@@ -1,0 +1,3 @@
+733 2026 aom --denoise-noise-level=15
+2782 4939 aom --denoise-noise-level=12 --cpu-used=3 --cq-level=23
+31887 34045 aom --denoise-noise-level=12 --cpu-used=3 --cq-level=23

@@ -1,0 +1,7 @@
+792 3069 aom --denoise-noise-level=10 --cpu-used=3 --cq-level=20
+3538 3605 aom --denoise-noise-level=24
+5608 5648 aom --denoise-noise-level=24
+8712 8784 aom --denoise-noise-level=24
+15515 15556 aom --denoise-noise-level=24
+23285 23375 aom --denoise-noise-level=24
+31888 34046 aom --denoise-noise-level=10 --cpu-used=3 --cq-level=20

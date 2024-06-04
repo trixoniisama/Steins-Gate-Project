@@ -1,0 +1,16 @@
+720 851 aom --denoise-noise-level=10 --cpu-used=3 --cq-level=22
+851 1085 aom --denoise-noise-level=36 --cpu-used=3 --cq-level=22
+1085 2878 aom --denoise-noise-level=10 --cpu-used=3 --cq-level=22
+10463 10502 aom --denoise-noise-level=36
+10793 10865 aom --denoise-noise-level=15
+14014 14101 aom --denoise-noise-level=15
+19477 19566 aom --denoise-noise-level=24
+22275 22509 aom --denoise-noise-level=15
+24986 25200 aom --denoise-noise-level=15
+25745 26028 aom --denoise-noise-level=15
+28851 28904 aom --denoise-noise-level=36
+29695 29775 aom --denoise-noise-level=24
+29803 29854 aom --denoise-noise-level=24
+31286 31320 aom --denoise-noise-level=15
+31659 33807 aom --denoise-noise-level=10 --cpu-used=3 --cq-level=22
+33807 -1 aom --denoise-noise-level=24

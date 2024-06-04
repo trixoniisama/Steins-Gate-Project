@@ -1,0 +1,6 @@
+3213 5371 aom --denoise-noise-level=10 --cpu-used=3 --cq-level=21
+20547 20613 aom --denoise-noise-level=15
+29704 29920 aom --denoise-noise-level=15
+30757 30906 aom --denoise-noise-level=24
+31606 31687 aom --denoise-noise-level=24
+31888 34046 aom --denoise-noise-level=10 --cpu-used=3 --cq-level=21

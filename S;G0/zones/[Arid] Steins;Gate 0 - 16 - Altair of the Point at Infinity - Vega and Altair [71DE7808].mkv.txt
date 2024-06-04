@@ -1,0 +1,9 @@
+1462 1593 aom --denoise-noise-level=9 --cpu-used=3 --cq-level=20
+1593 1826 aom --denoise-noise-level=36 --cpu-used=3 --cq-level=20
+1826 3621 aom --denoise-noise-level=9 --cpu-used=3 --cq-level=20
+7661 7849 aom --denoise-noise-level=15
+20086 20150 aom --denoise-noise-level=24 --cq-level=17
+25942 25990 aom --denoise-noise-level=24 --cq-level=17
+28427 28735 aom --denoise-noise-level=15
+29001 29161 aom --denoise-noise-level=15
+31772 34047 aom --denoise-noise-level=9 --cpu-used=3 --cq-level=20
